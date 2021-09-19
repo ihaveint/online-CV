@@ -2,4 +2,15 @@
 - degree: Bachelor of Computer Science
   uni: Sharif University of Technology
   year: 2018 &mdash; 2022
-  summary: 3.55/4 GPA
+  summary: "<ul>
+    <li>
+      Current GPA: 3.55/4
+    </li>
+    <li>
+    Selected Courses: Distributed Systems (600-level course),
+      Design of Programming languages,
+Compiler Design, Fundamentals of Blockchain Technologies (600-level course),
+Data Structures, Randomized Algorithms (600-level course), Design of Algorithms,
+Operating Systems, Computer Networks
+    </li>
+    </ul>"
