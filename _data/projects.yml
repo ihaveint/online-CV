@@ -4,8 +4,10 @@
   role: Course Project for Distributed Systems Course
   duration: 2021
   url: "https://github.com/ihaveint/map_reduce"
-  description: Developed mechanisms for fault tolerance while distributing
+  description: <ul class="resume-item-list"><li>
+    Developed mechanisms for fault tolerance while distributing
     the computation on different nodes.
+    </li></ul>
 
 - project: Wait Free Simulation of a Wild Ecosystem
   role: A toy project to improve my knowledge of the
