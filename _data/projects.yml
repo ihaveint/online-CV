@@ -1,6 +1,6 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
-- project: MapReduce Framework.
+- project: MapReduce Framework
   role: Course Project for Distributed Systems Course
   duration: 2021
   url: "https://github.com/ihaveint/map_reduce"
@@ -11,7 +11,7 @@
 
 - project: Wait Free Simulation of a Wild Ecosystem
   role: A toy project to improve my knowledge of the
-    Elixir programming language.
+    Elixir programming language
   duration: 2020
   description:
     <ul class="resume-item-list"><li>
@@ -24,7 +24,7 @@
     </li></ul>
 
 - project: Online Judge
-  role: Applied Linear Algebra, TA responsibilities.
+  role: A project I launched as a teaching assistant for Applied Linear Algebra course
   duration: 2021
   description:
     <ul class="resume-item-list"><li>
