@@ -23,14 +23,14 @@
     All of the  mentioned events happen concurrently and in a wait free manner.
     </li></ul>
 
-- project: Online Judge
-  role: A project I launched as a teaching assistant for Applied Linear Algebra course
-  duration: 2021
-  description:
-    <ul class="resume-item-list"><li>
-      Forked from an open source project and did customizations
-      based on our needs.
-    </li>
-    <li>
-      Included compatibility with Julia programming language,
-      with help from the open source community.</li></ul>
+#- project: Online Judge
+  #role: A project I launched as a teaching assistant for Applied Linear Algebra course
+  #duration: 2021
+  #description:
+    #<ul class="resume-item-list"><li>
+      #Forked from an open source project and did customizations
+      #based on our needs.
+    #</li>
+    #<li>
+      #Included compatibility with Julia programming language,
+      #with help from the open source community.</li></ul>
