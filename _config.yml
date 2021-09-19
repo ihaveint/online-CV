@@ -50,6 +50,7 @@ resume_section_links:           true
 resume_section_associations:    true
 resume_section_interests:       true
 resume_teaching_assistant: true
+resume_extracurricular: true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL

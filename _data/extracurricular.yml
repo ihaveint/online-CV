@@ -1,0 +1,19 @@
+# Extra Curriculars
+- title: Open-Source Contributions
+  duration: 2021 &mdash; Present
+  summary: <ul class="resume-item-list"><li>
+      <a href="https://github.com/boazbk/crypto">Lecture notes for a course on cryptography</a>
+    </li>
+    <li>
+      <a href="https://github.com/victornicolet/parsynt">Automatic parallel divide-and-conquer programs synthesizer</a>
+    </li>
+    </ul>
+
+- title: Lecturing
+  duration: 2021 &mdash; Present
+  summary: <ul class="resume-item-list"><li>
+    <p>
+      <b>"Who Has My Function?"</b>, A series of lectures on functional programming and how to build fault tolerant distributed systems, Sharif University of Technology
+    </p>
+    </li>
+    </ul>
