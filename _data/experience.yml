@@ -10,7 +10,20 @@
         environment.
     </li></ul>
 
-# Software Engineer
+# Research
+- company: Decentralized Finance Lab (Sharif University of Technology)
+  position: Research Assistant, Supervised by Dr. Mojtaba Tefagh.
+  duration: 2021 &mdash; Present
+  summary:
+    <ul class="resume-item-list"><li>
+    Trying to prove the correctness of the
+    <a href="https://mtefagh.github.io/papers/ABCD.html">
+    Atomic Bonded Cross-Chain Debt (ABCD)
+    protocol</a>, using formal methods.
+    </li>
+    </ul>
+
+# Data Engineer
 - company: Balad (Maps & Direction)
   position: Data Engineer
   duration: Jun, 2010 &mdash; Sept, 2013
