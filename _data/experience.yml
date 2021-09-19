@@ -26,7 +26,7 @@
 # Data Engineer
 - company: Balad (Maps & Direction)
   position: Data Engineer
-  duration: Jun, 2010 &mdash; Sept, 2013
+  #duration: Jun, 2010 &mdash; Sept, 2013
   summary:
     <ul class="resume-item-list"><li>
     Created a traffic dashboard based on users anonymous data,
@@ -43,7 +43,7 @@
 # Software Engineer
 - company: Balad (Maps & Direction)
   position: Back-End software developer
-  duration: Jun, 2008  &mdash; May, 2010
+  #duration: Jun, 2008  &mdash; May, 2010
   summary:
     <ul class="resume-item-list"><li>
       Designed a routing algorithm based on bidirectional dijkstra
