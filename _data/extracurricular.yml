@@ -13,7 +13,32 @@
   duration: 2021 &mdash; Present
   summary: <ul class="resume-item-list"><li>
     <p>
-      <b>"Who Has My Function?"</b>, A series of lectures on functional programming and how to build fault tolerant distributed systems, Sharif University of Technology
+      <b>"Who Has My Function?"</b>, A series of lectures on functional programming and how to build fault tolerant distributed systems, held in Sharif University of Technology.
     </p>
+    </li>
+    </ul>
+
+
+- title: Workshops
+  duration: 2020
+  summary: <ul class="resume-item-list"><li>
+    Mentored high school students in a 1-day workshop, introducing subjects they will encounter in university.
+    </li>
+    <li>
+      Held a workshop with a focus on concurrency models (<a href="Held a workshop with a focus on concurrency models (Slides).">Slides</a>).
+    </li>
+    </ul>
+
+- title: Olympiad in Informatics
+  duration: 2018 &mdash; 2019
+  summary: <ul class="resume-item-list"><li>
+      Trained a class of high-school students preparing for Olympiad in Informatics.
+    </li>
+    </ul>
+
+- title: Competitive Programming
+  duration: 2015 &mdash; 2018
+  summary: <ul class="resume-item-list"><li>
+    Examined over 2500 Algorithmic & Combinatorial questions on online platforms (Codeforces, Topcoder, etc).
     </li>
     </ul>
