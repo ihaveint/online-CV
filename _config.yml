@@ -23,9 +23,7 @@ resume_contact_email:           "soroush.zare00@gmail.com"
 #resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 #display_header_contact_info:    "false"
 
-resume_header_intro: "<p>To my surprise, I (among many other people),
-  am interested in a few things :))
-  I'm mostly interested in the study of distributed systems,
+resume_header_intro: "<p>I'm mostly interested in the study of distributed systems,
   how it can mitigate some of the problems with today's software development,
   and also how formal methods can be used to make systems
   (particularly distributed one's) safe and trustworthy.
