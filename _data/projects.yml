@@ -1,5 +1,12 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
+- project: A Compiler for C-minus Language
+  duration: 2021 &mdash; Present
+  description: 
+    <ul class="resume-item-list"><li>
+    Currently working on reaching an intermediate representaion, starting from C-minus source code.
+    </li></ul>
+
 - project: MapReduce Framework
   role: Course Project for Distributed Systems Course
   duration: 2021
