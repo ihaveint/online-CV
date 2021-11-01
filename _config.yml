@@ -23,7 +23,9 @@ resume_contact_email:           "soroush.zare00@gmail.com"
 #resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 #display_header_contact_info:    "false"
 
-resume_header_intro: "<p>I'm interested in programming languages and formal methods; In the long term, I want to make the process of making software easier for myself, and other software developrs</p>"
+resume_header_intro: "<p>I'm interested in programming languages and formal
+  methods; In the long term, I want to make the process of making software
+  easier for myself, and other software developrs</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
