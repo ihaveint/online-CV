@@ -1,24 +1,5 @@
-# Skills, TODO
-- course: Applied Linear Algebra (22659), Instructed by Dr. Mojtaba Tefagh, Sharif University of Technology
-  description: "<ul>
-    <li>
-    Launched an online judge application for programming assignments
-    </li>
-    <li>
-     Prepared test-cases and custom checkers for assignments.
-    </li>
-    <li>
-    Provided documents for other assistants to write their own custom checkers.
-    </li>
-    </ul>"
-
-- course: Advanced Programming (22815), Instructed by Hossein Boomari and Mojtaba Ostovari, Sharif University of Technology
-  description: "<ul>
-    <li>
-      Improved students clean code skills by composing assignments
-      specifically aimed at refactoring.
-    </li>
-    <li>
-      Graded students projects.
-    </li>
-    </ul>"
+- course: Design of Programming Languages (40364), Sharif University of Technology
+- course: Compilers (22851), Sharif University of Technology
+- course: Theory of Automata (22873), Sharif University of Technology
+- course: Applied Linear Algebra (22659), Sharif University of Technology
+- course: Advanced Programming (22815), Sharif University of Technology
