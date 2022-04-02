@@ -8,7 +8,6 @@
     </li></ul>
 
 - project: MapReduce Framework
-  role: Course Project for Distributed Systems Course
   duration: 2021
   url: "https://github.com/ihaveint/map_reduce"
   description: <ul class="resume-item-list"><li>
@@ -16,28 +15,16 @@
     the computation on different nodes.
     </li></ul>
 
-- project: Wait Free Simulation of a Wild Ecosystem
+- project: Wait Free Simulation of an inherently concurrent system
   role: A toy project to improve my knowledge of the
     Elixir programming language
   duration: 2020
   description:
     <ul class="resume-item-list"><li>
     Utilized some ideas inspired by blockchain technologies to reach
-    a wait free algorithm.
+    a wait free algorithm that simuluates a wild ecosystem of animals.
     There are interactions between wild and domestic animals,
     where domestic ones can be eaten. There’s also possibility for
     reproduction of animals, and also moving along different directions.
     All of the  mentioned events happen concurrently and in a wait free manner.
     </li></ul>
-
-#- project: Online Judge
-  #role: A project I launched as a teaching assistant for Applied Linear Algebra course
-  #duration: 2021
-  #description:
-    #<ul class="resume-item-list"><li>
-      #Forked from an open source project and did customizations
-      #based on our needs.
-    #</li>
-    #<li>
-      #Included compatibility with Julia programming language,
-      #with help from the open source community.</li></ul>
