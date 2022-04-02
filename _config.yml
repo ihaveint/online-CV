@@ -21,7 +21,7 @@ resume_contact_email:           "soroush.zare00@gmail.com"
 #resume_contact_address:         "742 Evergreen Terrace, Springfield"
 
 #resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
-#display_header_contact_info:    "false"
+display_header_contact_info:    "true"
 
 resume_header_intro: "<p>I'm interested in programming languages and formal
   methods; In the long term, I want to make the process of making software
